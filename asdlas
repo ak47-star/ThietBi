@@ -1,0 +1,72 @@
+[33mcommit 1dc45db20c07de16f51cfe2aac4959c2713ce616[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/login[m[33m, [m[1;32mlogin[m[33m)[m
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Fri Nov 16 03:15:16 2018 +0700
+
+    login
+
+[33mcommit d0d628db294f5153c70775336843601c0735700f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Fri Nov 16 02:26:16 2018 +0700
+
+    add file
+
+[33mcommit 3c4d301f12cbe76e7a03c9373928cf8f28854092[m
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Fri Nov 16 02:14:46 2018 +0700
+
+    add log
+
+[33mcommit 035ad2aaa55f1a424a2f4be0edd50b737e14981c[m
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Fri Nov 16 01:58:42 2018 +0700
+
+    add content
+
+[33mcommit 76ba480d91aaa8413318499a862fbe84adb68563[m
+Merge: 1e7576d 5023d6b
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Fri Nov 16 01:43:38 2018 +0700
+
+    Merge remote-tracking branch 'origin'
+
+[33mcommit 1e7576dc2640134f8b0d5da1abe83d942dd266a0[m
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Fri Nov 16 01:38:01 2018 +0700
+
+    add file
+
+[33mcommit 5023d6b1dc6052ba22374fea3af6030bbcb0e79d[m
+Author: phanson131 <phansondhvcntt@gmail.com>
+Date:   Fri Nov 16 00:57:17 2018 +0700
+
+    Delete README.md
+
+[33mcommit 925c27a79f7e80634c0e82051536fbd8df419002[m
+Author: phanson131 <phansondhvcntt@gmail.com>
+Date:   Fri Nov 16 00:56:58 2018 +0700
+
+    Delete son.txt.txt
+
+[33mcommit 0508008c908c1eb152d115ace5851f7afcf4c205[m
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Thu Nov 15 21:49:18 2018 +0700
+
+    change file
+
+[33mcommit 899cac2762f2ea7190ea7a5b2e8a33a86ac13f22[m
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Thu Nov 15 11:02:57 2018 +0700
+
+    ko co gi
+
+[33mcommit 512764171b0bfb626b7532680eec7a7a99bf6237[m
+Author: phanson <phansondhvcntt@gmail.com>
+Date:   Thu Nov 15 10:47:13 2018 +0700
+
+    add new file
+
+[33mcommit 81c348eeb28e5b4bc6d8549c912ce1619d50c235[m
+Author: phanson131 <phansondhvcntt@gmail.com>
+Date:   Thu Nov 15 10:19:52 2018 +0700
+
+    Initial commit
